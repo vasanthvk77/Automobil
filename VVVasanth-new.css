@@ -667,7 +667,8 @@ color: rgb(179, 174, 174);
     .popupformcol
     {
         margin-left:-10px;
-        margin-top:13px;
+        margin-top: -13px;
+        
     }
 }
 @media(max-width:770px){
